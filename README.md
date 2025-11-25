@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>Vinayagam S</strong></h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN | API Integrations | Cloud Deployments</h3>
+<h3 align="center">🚀 Full-Stack Developer | MEAN | MERN | Android | Windows Softwaer | API Integrations | Cloud Deployments</h3>
 
 ---
 
 ### 🔥 About Me  
-- 💻 Full-stack developer specializing in **React.js, Node.js, Express.js & PHP**
+- 💻 Full-stack developer specializing in **React.js, Angular, Node.js, Express.js & PHP**
 - 📦 Experience with **MongoDB, MySQL, Firebase**
 - 🤖 Love integrating **AI APIs (Gemini, OpenAI)** in real-world apps  
 - ☁ Deploying apps on **AWS, cPanel, Linux, Vercel**
