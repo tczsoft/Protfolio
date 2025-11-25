@@ -1,6 +1,6 @@
 <!-- Stylish Banner -->
 <p align="center">
-  <img src="[https://i.postimg.cc/Px6DbmPT/Blue-Digital-Wave-Tech-You-Tube-Banner.png](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hi%20👋,%20I'm%20Vinayagam%20S&desc=Full-Stack%20Dev%20|%20MERN%20|%20Android%20|%20Windows%20|%20Cloud%20Solutions&fontSize=50&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=65&stroke=00f2ea)" alt="Banner" width="100%">
+  <img src="https://i.postimg.cc/Px6DbmPT/Blue-Digital-Wave-Tech-You-Tube-Banner.png](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hi%20👋,%20I'm%20Vinayagam%20S&desc=Full-Stack%20Dev%20|%20MERN%20|%20Android%20|%20Windows%20|%20Cloud%20Solutions&fontSize=50&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=65&stroke=00f2ea)" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>Vinayagam S</strong></h1>
