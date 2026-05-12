@@ -30,7 +30,7 @@ export const site = {
   status: 'Open to work',
   email: 'vinayagamss9976@gmail.com',
   phone: '+91 78250 39287',
-  linkedin: 'www.linkedin.com/in/vinayagam-s-902930284',
+  linkedin: 'https://www.linkedin.com/in/vinayagam-s-902930284',
   linkedinLabel: 'linkedin.com/in/vinayagam s',
 
   summary:
