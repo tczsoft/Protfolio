@@ -17,7 +17,7 @@ export default function Contact() {
       />
       <div className="max-w-7xl mx-auto px-6 lg:px-10">
         <SectionLabel
-          number="04"
+          number="05"
           eyebrow="Contact"
           title={
             <>

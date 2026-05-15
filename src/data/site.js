@@ -79,16 +79,158 @@ export const site = {
   ],
 
   projects: [
-    {
-      title: 'thecloud9kitchens.com',
-      tag: 'Restaurant Web Application',
-      description:
-        'A full-featured restaurant website with menu management, online presence optimization, and a seamless ordering experience. Designed, built, and deployed within a tight 2-month timeline.',
-      stack: ['React.js', 'Node.js', 'MongoDB', 'AWS', 'Tailwind CSS'],
-      url: 'https://thecloud9kitchens.com',
-      year: '2024',
-    },
-  ],
+  {
+    title: 'PMS - Employee Management System',
+    tag: 'Enterprise Management Application',
+    description:
+      'Developed a comprehensive employee management system with attendance tracking, employee performance monitoring, real-time chat functionality, and customizable Google Sheets–like tables capable of handling more than 2 lakh records efficiently. Also managed server deployment, cloud hosting, and maintenance.',
+    stack: [
+      'Angular',
+      'Node.js',
+      'Express.js',
+      'MongoDB',
+      'Socket.IO',
+      'AWS',
+      'MEAN Stack'
+    ],
+    url:null,
+    year: '2023',
+  },
+
+  {
+    title: 'kiranaabazaar.com',
+    tag: 'E-Commerce Platform',
+    description:
+      'Built a scalable e-commerce application supporting grocery ordering, vendor management, order tracking, secure payments, and responsive user experience for both B2B and B2C customers.',
+    stack: [
+      'React.js',
+      'Node.js',
+      'Express.js',
+      'MongoDB',
+      'AWS',
+      'Tailwind CSS',
+      'MERN Stack'
+    ],
+    url: 'https://kiranaabazaar.com',
+    year: '2024',
+  },
+
+  {
+    title: 'liarafashions.com',
+    tag: 'Fashion E-Commerce Platform',
+    description:
+      'Developed a responsive fashion e-commerce platform with product management, order processing, secure checkout, customer management, and mobile-friendly UI.',
+    stack: [
+      'React.js',
+      'Node.js',
+      'MongoDB',
+      'Express.js',
+      'AWS',
+      'Tailwind CSS',
+      'MERN Stack'
+    ],
+    url: 'https://liarafashions.com',
+    year: '2024',
+  },
+
+  {
+    title: 'shadesorder.com',
+    tag: 'B2B Online Ordering Platform',
+    description:
+      'Created an online ordering and management system with dynamic product handling, payment integration, admin dashboard, and optimized customer ordering workflow.',
+    stack: [
+      'React.js',
+      'Node.js',
+      'MongoDB',
+      'Express.js',
+      'AWS',
+      'Tailwind CSS'
+    ],
+    url: 'https://shadesorder.com',
+    year: '2024',
+  },
+
+  {
+    title: 'natomasgroup.org',
+    tag: 'Event Management System',
+    description:
+      'Built an event management platform with participant registration, score tracking, scheduling, and administrative controls for managing competitions and events efficiently.',
+    stack: [
+      'React.js',
+      'Node.js',
+      'MongoDB',
+      'Express.js',
+      'MERN Stack'
+    ],
+    url: 'https://natomasgroup.org',
+    year: '2024',
+  },
+
+  {
+    title: 'hiring.arrowthought.in',
+    tag: 'Interview & Aptitude Evaluation Platform',
+    description:
+      'Developed an online aptitude testing and interview evaluation platform with automated score calculation, candidate performance analysis, secure test handling, and reporting features.',
+    stack: [
+      'Next.js',
+      'Node.js',
+      'MongoDB',
+      'Tailwind CSS',
+      'AWS'
+    ],
+    url: 'https://hiring.arrowthought.in',
+    year: '2025',
+  },
+
+  {
+    title: 'valluvas.com',
+    tag: 'Education Management System',
+    description:
+      'Designed and developed an education ERP system for student admissions, fee management, syllabus distribution, student data maintenance, and centralized administration.',
+    stack: [
+      'React.js',
+      'Node.js',
+      'MongoDB',
+      'Express.js',
+      'MERN Stack'
+    ],
+    url: 'https://valluvas.com',
+    year: '2024',
+  },
+
+  {
+    title: 'kavinsacademy.com',
+    tag: 'Academic Management Platform',
+    description:
+      'Developed a student and academic management platform with admission workflows, fee tracking, syllabus sharing, and role-based administrative management.',
+    stack: [
+      'React.js',
+      'Node.js',
+      'MongoDB',
+      'Express.js',
+      'Tailwind CSS'
+    ],
+    url: 'https://kavinsacademy.com',
+    year: '2024',
+  },
+
+  {
+    title: 'Multi-Purpose Billing Software',
+    tag: 'Billing & Inventory Management Application',
+    description:
+      'Built a Windows and Android-based billing software with purchase and sales tracking, vendor management, profit/loss analytics, customizable GST billing, and inventory handling for multiple business types.',
+    stack: [
+      'Electron.js',
+      'Android',
+      'Node.js',
+      'MongoDB',
+      'SQLite',
+      'Express.js'
+    ],
+    url: null,
+    year: '2023',
+  },
+],
 
   education: [
     {
