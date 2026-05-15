@@ -20,6 +20,25 @@ function calculateExperience(startDate) {
     return `${years} ${yearText} ${months} ${monthText}`;
 }
 
+function calculateExperience1(startDate) {
+
+    const start = new Date(startDate);
+    const end = new Date();
+
+    let years = end.getFullYear() - start.getFullYear();
+    let months = end.getMonth() - start.getMonth();
+
+    if (months < 0) {
+        years--;
+        months += 12;
+    }
+
+    const yearText = years === 1 ? 'year' : 'years';
+    const monthText = months === 1 ? 'month' : 'months';
+
+    return `${years}.${months}`;
+}
+
 export const site = {
   name: 'Vinayagam S',
   initials: 'VS',
@@ -38,9 +57,9 @@ export const site = {
 
   // Stats shown beneath the hero
   stats: [
-    { value: '3.9', unit: 'years', label: 'Building products' },
+    { value: calculateExperience1('2021-11-01'), unit: 'years', label: 'Building products' },
     { value: '15+', unit: '', label: 'Projects shipped' },
-    { value: '2', unit: '', label: 'Stacks mastered (MERN & MEAN)' },
+    { value: '11+', unit: '', label: 'Stacks mastered (MERN & MEAN)' },
     { value: '100%', unit: '', label: 'Cloud deployed on AWS' },
   ],
 
